@@ -386,8 +386,8 @@ bssCOMMON 70 7B COMMON 70 1
 dataBANK1 A0 DF BANK1 A0 1
 bssBANK0 20 4A BANK0 20 1
 %locals
-dist/default/production\TY1475_RX_LOW.X.production.o
-C:\Users\t00904\AppData\Local\Temp\xcDsjt4.3\driver_tmp_1.s
+dist/default/production\TY1475_LOW_V04.X.production.o
+C:\Users\t00904\AppData\Local\Temp\xcBsf8o.1\driver_tmp_1.s
 3640 28 0 CODE 0
 3643 28 0 CODE 0
 3748 28 0 CODE 0
