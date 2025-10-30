@@ -3,6 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>TY1475_LOW_V05</name>
             <name>TY1475_LOW_V04</name>
             <name>TY1475_LOW_V4</name>
             <name>TY1475_RX_LOW</name>
