@@ -1,4 +1,0 @@
-D:/yiming/00work/TY1475_LOW_V4.X/_build/TY1475_RX/default/CMakeFiles/TY1475_RX_default_default_XC8_compile.dir
-D:/yiming/00work/TY1475_LOW_V4.X/_build/TY1475_RX/default/CMakeFiles/TY1475_RX_default_image_VTwMJza4.dir
-D:/yiming/00work/TY1475_LOW_V4.X/_build/TY1475_RX/default/CMakeFiles/edit_cache.dir
-D:/yiming/00work/TY1475_LOW_V4.X/_build/TY1475_RX/default/CMakeFiles/rebuild_cache.dir
